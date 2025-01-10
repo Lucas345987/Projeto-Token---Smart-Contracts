@@ -7,3 +7,4 @@ https://sepolia.etherscan.io
 
 ### Imagem codificando com Solidity:
 ![Captura de tela 2025-01-10 090532](https://github.com/user-attachments/assets/a7babf99-192d-4319-9cfc-84b07ef91e55)
+![Token WHZ](https://github.com/user-attachments/assets/66e639ec-d590-405d-9fa8-d582cd72f508)
